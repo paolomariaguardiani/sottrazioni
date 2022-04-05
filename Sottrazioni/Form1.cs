@@ -121,6 +121,27 @@ namespace Sottrazioni
             txtRisposta.Text = "7";
         }
 
+        private void btnCancella_Click(object sender, EventArgs e)
+        {
+            soundClick.Play();
+            txtRisposta.Text = "";
+        }
+
+        private void btnHint_Click(object sender, EventArgs e)
+        {
+            soundClick.Play();
+            if (panel1.Visible == true)
+            {
+                panel1.Visible = false;
+                btnHint.Text = "MOSTRA";
+            }
+            else
+            {
+                panel1.Visible = true;
+                btnHint.Text = "NASCONDI";
+            }
+        }
+
         private void btn_num_8_Click(object sender, EventArgs e)
         {
             soundClick.Play();

@@ -90,3 +90,18 @@ C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sot
 C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\bin\Debug\Sottrazioni.application
 C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.exe.manifest
 C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.application
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.csproj.AssemblyReference.cache
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.Form1.resources
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.Properties.Resources.resources
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.csproj.GenerateResource.cache
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.csproj.CoreCompileInputs.cache
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\bin\Debug\Sottrazioni.exe.config
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\bin\Debug\Sottrazioni.exe.manifest
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\bin\Debug\Sottrazioni.application
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\bin\Debug\Sottrazioni.exe
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\bin\Debug\Sottrazioni.pdb
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.exe.manifest
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.application
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.exe
+C:\Users\paolo\Downloads\Sottrazioni 09\Sottrazioni\obj\Debug\Sottrazioni.pdb

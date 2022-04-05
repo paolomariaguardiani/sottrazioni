@@ -55,6 +55,8 @@
             this.btn_num_8 = new System.Windows.Forms.Button();
             this.btn_num_9 = new System.Windows.Forms.Button();
             this.btn_num_0 = new System.Windows.Forms.Button();
+            this.btnCancella = new System.Windows.Forms.Button();
+            this.btnHint = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -206,13 +208,13 @@
             this.btnNew.Name = "btnNew";
             this.btnNew.Size = new System.Drawing.Size(334, 90);
             this.btnNew.TabIndex = 0;
-            this.btnNew.Text = "NEW";
+            this.btnNew.Text = "NUOVO";
             this.btnNew.UseVisualStyleBackColor = false;
             this.btnNew.Click += new System.EventHandler(this.btnNew_Click);
             // 
             // btnControlla
             // 
-            this.btnControlla.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnControlla.BackColor = System.Drawing.Color.LimeGreen;
             this.btnControlla.Enabled = false;
             this.btnControlla.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnControlla.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -354,11 +356,40 @@
             this.btn_num_0.UseVisualStyleBackColor = true;
             this.btn_num_0.Click += new System.EventHandler(this.btn_num_0_Click);
             // 
+            // btnCancella
+            // 
+            this.btnCancella.BackColor = System.Drawing.Color.Crimson;
+            this.btnCancella.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnCancella.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCancella.ForeColor = System.Drawing.Color.White;
+            this.btnCancella.Location = new System.Drawing.Point(766, 320);
+            this.btnCancella.Name = "btnCancella";
+            this.btnCancella.Size = new System.Drawing.Size(334, 90);
+            this.btnCancella.TabIndex = 18;
+            this.btnCancella.Text = "CANCELLA";
+            this.btnCancella.UseVisualStyleBackColor = false;
+            this.btnCancella.Click += new System.EventHandler(this.btnCancella_Click);
+            // 
+            // btnHint
+            // 
+            this.btnHint.BackColor = System.Drawing.Color.Khaki;
+            this.btnHint.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnHint.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHint.Location = new System.Drawing.Point(42, 511);
+            this.btnHint.Name = "btnHint";
+            this.btnHint.Size = new System.Drawing.Size(334, 90);
+            this.btnHint.TabIndex = 19;
+            this.btnHint.Text = "NASCONDI";
+            this.btnHint.UseVisualStyleBackColor = false;
+            this.btnHint.Click += new System.EventHandler(this.btnHint_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1197, 636);
+            this.Controls.Add(this.btnHint);
+            this.Controls.Add(this.btnCancella);
             this.Controls.Add(this.btn_num_0);
             this.Controls.Add(this.btn_num_9);
             this.Controls.Add(this.btn_num_8);
@@ -414,6 +445,8 @@
         private System.Windows.Forms.Button btn_num_9;
         private System.Windows.Forms.Button btn_num_0;
         private System.Windows.Forms.Button btn1;
+        private System.Windows.Forms.Button btnCancella;
+        private System.Windows.Forms.Button btnHint;
     }
 }
 
