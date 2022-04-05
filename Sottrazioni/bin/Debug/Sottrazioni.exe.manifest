@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sottrazioni.exe" size="2836488">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sottrazioni.exe" size="2905096">
       <assemblyIdentity name="Sottrazioni" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bsTNoiNIoQtCCxVdyGuYz1iZFKe0SlmCuvzva6zDlhA=</dsig:DigestValue>
+        <dsig:DigestValue>J6MvUL64sTQ7AP5ZV+64isyadjPhcbN4EesNoA9JTiU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
