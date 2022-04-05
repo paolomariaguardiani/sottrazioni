@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Sottrazioni.exe" version="1.0.0.0" publicKeyToken="77e7220244a472c1" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="logo_di_paolo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Sottrazioni" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Sottrazioni.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opzioni manifesto Controllo dell'account utente
+          Se si vuole modificare il livello di Controllo dell'account utente di Windows, sostituire il
+          nodo requestedExecutionLevel con uno dei seguenti.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Se si vuole usare Virtualizzazione file system e registro di sistema per la 
+         compatibilità con le versioni precedenti, eliminare il nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sottrazioni.exe" size="2835976">
+      <assemblyIdentity name="Sottrazioni" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Pi93tow0mCP/Ar7yj/O3Wy+7Jas4MNBVc9UDthIfCxA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="logo_di_paolo.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MgWQRTxsJDmiYc0TWCuIsW/W+CzkFTFkx0vxZy/LCWc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Sottrazioni.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PAOLOMARIAGUARD\LENOVO M700" issuerKeyHash="3266e9d50fbe15f2bce0523b86ea4bcbf0f487d8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>N+5y1grQB0rHixi+BqaLwMavufl/b8MAF8qDfWTY/Bc=</DigestValue></Reference></SignedInfo><SignatureValue>NlpgRIrBACbvrwz1UPqWqLIwnhymtyHGzTruF1sVDjSebyAfOj/NJlsm+CFM4p/jzeeENE8biflWqBBYz/Vo/bSEqwr2bKosVGDsPUflx8aUS1wlNVl70pHkRzqpOczh9bZiqfdNOF3FS8HWo6LH5Nd7ejCAcJL8ba8bZBLbKWo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yiLf8To4LTqVWJIVaZ1qxFFy4H9avspYiTDtqqS6CxPnroKqM8cUjldV5XQIqfWZoax9nDvQ5vJeQp+5ipL5Zt+puEOXd6g7EahvE8x8D6xsZzEchccJscOVFaWhNyx1QW68yOBnKmxD/6fliNRCJN2yDBcjQreYobiEinMg3sU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="17fcd8647d83ca1700c36f7ff9b9afc6c08ba606be188bc74a07d00ad672ee37" Description="" Url=""><as:assemblyIdentity name="Sottrazioni.exe" version="1.0.0.0" publicKeyToken="77e7220244a472c1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PAOLOMARIAGUARD\LENOVO M700</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8wtWF9Bdm1HWkjXNXIyLPOdAa6rm6cU3UGblZeyp3RM=</DigestValue></Reference></SignedInfo><SignatureValue>gduJC9y0sSMH1p5aglMByOw4jarb5+tsOrg39Fi4rmKHOUj42g0PeGaWmTvgJoTVadQrNQPOPxBWUa1czML4oY/8OmZyr0L56v9r9xKReZfV4OdJvCt4RnpfvAzFZ7JPkA+N7zJuu9LTrff+KUSjMzVcgwde1DVEiveS31/fvZY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yiLf8To4LTqVWJIVaZ1qxFFy4H9avspYiTDtqqS6CxPnroKqM8cUjldV5XQIqfWZoax9nDvQ5vJeQp+5ipL5Zt+puEOXd6g7EahvE8x8D6xsZzEchccJscOVFaWhNyx1QW68yOBnKmxD/6fliNRCJN2yDBcjQreYobiEinMg3sU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICBTCCAW6gAwIBAgIQJGUHBTC3dadKuTjfS72MLDANBgkqhkiG9w0BAQsFADBBMT8wPQYDVQQDHjYAUABBAE8ATABPAE0AQQBSAEkAQQBHAFUAQQBSAEQAXABMAEUATgBPAFYATwAgAE0ANwAwADAwHhcNMjIwMzE3MTcyNzQzWhcNMjMwMzE3MjMyNzQzWjBBMT8wPQYDVQQDHjYAUABBAE8ATABPAE0AQQBSAEkAQQBHAFUAQQBSAEQAXABMAEUATgBPAFYATwAgAE0ANwAwADAwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMoi3/E6OC06lViSFWmdasRRcuB/Wr7KWIkw7aqkugsT566CqjPHFI5XVeV0CKn1maGsfZw70ObyXkKfuYqS+WbfqbhDl3eoOxGobxPMfA+sbGcxHIXHCbHDlRWloTcsdUFuvMjgZypsQ/+n5YjUQiTdsgwXI0K3mKG4hIpzIN7FAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAAqmeYAGfw0ki2dLKjNx/YUlS3n8L83/djB0tS2UJzTi2a/pis4f1tSFCuaTVOkHWdIEVL6jkVWGHn5W35duKYpN59mVzYqg4xuxf5hwf1D5WXG224I6bdNViHYNhrI4Xb8RthtyfVHt7Mux+c+T2+h3gbhA2v1l7p6Szda0Hn/U=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

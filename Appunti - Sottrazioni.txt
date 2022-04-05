@@ -1,0 +1,18 @@
+Versione # 03
+Inserisco un label che spiega se il risultato è corretto oppure qual era il risultato giusto
+
+Versione # 04
+Inserisco i suoni del gioco
+
+Versione # 07
+Dopo aver aggiunto il suono del click dei bottoni e aver cambiato l'immagine dei bottoni,
+cambio la disposizione dei vari elementi.
+
+Versione # 08
+Rimpicciolisco la finestra e cambio la disposizione dei vari elementi affinché il tutto
+si possa vedere bene sul computerino di Anas (dove la risoluzione è ingrandita al 150%).
+
+Versione # 09
+Dispongo i bottoni che servono al bambino per fare i calcoli (quelli verdi/rossi) in alto
+secondo le indicazioni del maestro Marco.
+

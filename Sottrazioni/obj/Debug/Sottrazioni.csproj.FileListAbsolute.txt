@@ -1,0 +1,92 @@
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\bin\Debug\Sottrazioni.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\bin\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\bin\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\obj\Debug\Sottrazioni.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\obj\Debug\Sottrazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\obj\Debug\Sottrazioni.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\obj\Debug\Sottrazioni.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\obj\Debug\Sottrazioni.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\obj\Debug\Sottrazioni.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\obj\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni\Sottrazioni\obj\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\bin\Debug\Sottrazioni.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\bin\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\bin\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\obj\Debug\Sottrazioni.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\obj\Debug\Sottrazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\obj\Debug\Sottrazioni.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\obj\Debug\Sottrazioni.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\obj\Debug\Sottrazioni.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\obj\Debug\Sottrazioni.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\obj\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 02\Sottrazioni\obj\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\bin\Debug\Sottrazioni.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\bin\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\bin\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\obj\Debug\Sottrazioni.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\obj\Debug\Sottrazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\obj\Debug\Sottrazioni.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\obj\Debug\Sottrazioni.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\obj\Debug\Sottrazioni.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\obj\Debug\Sottrazioni.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\obj\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 03\Sottrazioni\obj\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\bin\Debug\Sottrazioni.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\bin\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\bin\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\obj\Debug\Sottrazioni.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\obj\Debug\Sottrazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\obj\Debug\Sottrazioni.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\obj\Debug\Sottrazioni.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\obj\Debug\Sottrazioni.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\obj\Debug\Sottrazioni.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\obj\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 04\Sottrazioni\obj\Debug\Sottrazioni.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\bin\Debug\Sottrazioni.exe.config
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\bin\Debug\Sottrazioni.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\bin\Debug\Sottrazioni.pdb
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\obj\Debug\Sottrazioni.csproj.AssemblyReference.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\obj\Debug\Sottrazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\obj\Debug\Sottrazioni.Form1.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\obj\Debug\Sottrazioni.Properties.Resources.resources
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\obj\Debug\Sottrazioni.csproj.GenerateResource.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\obj\Debug\Sottrazioni.csproj.CoreCompileInputs.cache
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\obj\Debug\Sottrazioni.exe
+C:\Users\paolo\PROGRAMMAZIONE - Windows\C# - sul portatile\Sottrazioni 05\Sottrazioni\obj\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\bin\Debug\Sottrazioni.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\bin\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\bin\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\obj\Debug\Sottrazioni.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\obj\Debug\Sottrazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\obj\Debug\Sottrazioni.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\obj\Debug\Sottrazioni.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\obj\Debug\Sottrazioni.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\obj\Debug\Sottrazioni.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\obj\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 06\Sottrazioni\obj\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\bin\Debug\Sottrazioni.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\bin\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\bin\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\obj\Debug\Sottrazioni.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\obj\Debug\Sottrazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\obj\Debug\Sottrazioni.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\obj\Debug\Sottrazioni.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\obj\Debug\Sottrazioni.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\obj\Debug\Sottrazioni.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\obj\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 07\Sottrazioni\obj\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\bin\Debug\Sottrazioni.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\bin\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\bin\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\bin\Debug\Sottrazioni.exe.manifest
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\bin\Debug\Sottrazioni.application
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.exe.manifest
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\SOTTRAZIONI\Sottrazioni 08\Sottrazioni\obj\Debug\Sottrazioni.application
